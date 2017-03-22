@@ -43,5 +43,22 @@ p {
     font-size: 14px;
 
     background: rgba(0,0,0,0.25);
-                   
+}
+
+/**********/
+/* SLIDER */
+/**********/
+
+.sldr {
+    overflow: hidden;
+}
+
+.selectors li.focalpoint a {
+    color: #f0dfaf !important;
+}
+.selectors li a {
+    color: #5b605e;
+}
+.selectors li {
+    font-size: 20px;
 }

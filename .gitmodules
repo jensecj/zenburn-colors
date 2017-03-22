@@ -1,0 +1,3 @@
+[submodule "plugins/sldr"]
+	path = plugins/sldr
+	url = https://github.com/devowhippit/jquery.sldr.git
